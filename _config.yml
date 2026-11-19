@@ -23,7 +23,7 @@ repository               : "equalisandum-cloud/equalisandum-cloud.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.jpg"
   name             : "Alexander L. Q. Chen-Florea"
   pronouns         : "he/him"
   bio              : "Assistant Professor in Business and Data Analytics, Roskilde University"
